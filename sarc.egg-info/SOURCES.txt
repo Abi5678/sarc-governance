@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+sarc/__init__.py
+sarc/agent_loop.py
+sarc/audit.py
+sarc/enforcement.py
+sarc/spec.py
+sarc/trace.py
+sarc.egg-info/PKG-INFO
+sarc.egg-info/SOURCES.txt
+sarc.egg-info/dependency_links.txt
+sarc.egg-info/requires.txt
+sarc.egg-info/top_level.txt
+tests/test_escalation_trace.py
+tests/test_hard_constraints.py
+tests/test_soft_constraints.py
